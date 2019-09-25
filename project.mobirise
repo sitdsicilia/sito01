@@ -44,7 +44,10 @@
       }
     ],
     "PWA": {
-      "enabled": true
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/pfalco1024-copia-512x512.png",
+      "themeColor": "#f7ed4a"
     },
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -54,7 +57,7 @@
     "pwa-switcher": "on",
     "gdpr": "",
     "uniqCompNum": 10,
-    "versionPublish": "4.10.10",
+    "versionPublish": "4.10.15",
     "screenshot": "screenshot.png"
   },
   "pages": {
